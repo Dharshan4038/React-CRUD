@@ -1,0 +1,12 @@
+.home {
+    height: 81vh;
+    overflow: auto;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    background-color:  #0D6EFD;
+    width: 100%;
+    color: white;
+}
